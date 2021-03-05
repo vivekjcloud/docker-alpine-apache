@@ -1,6 +1,6 @@
 FROM nimmis/alpine-micro
 
-MAINTAINER nimmis <kjell.havneskold@gmail.com>
+# MAINTAINER nimmis <kjell.havneskold@gmail.com>
 
 COPY root/. /
 
